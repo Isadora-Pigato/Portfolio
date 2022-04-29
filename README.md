@@ -13,12 +13,6 @@
 <strong>- Jacquin Delicinhas:</strong> A proposta era criar um site de receitas do Jacquin (Jacquin Delicinhas) no Figma. Escolhi o trabalho "Jacquin Delicinhas" porque amei bastante o resultado, foi um trabalho inspirado no site do Temakin e me dediquei bastante para obter o resultado esperado, mexer nas funções do site Figma foi um novo desafio que gostei de realizar.
 <br>
 
-<h4> <strong> Fundamentos de TI: </strong> </h4>
-<strong>- 1:</strong> <br>
-<strong>- 2:</strong>
-<br>
-
 <h4> <strong> Lógica Computacional: </strong> </h4>
 <strong>- Código da P.A.:</strong> A proposta era postar o algoritmo com os 4 cálculos de PA vistos em aula. No entanto, gostei bastante de relacionar o conteúdo abordado em matemática no primeiro trimestre com a disciplina de Lógica Computacional e saber que podemos envolver com algoritmos, é bem interessante. <br>
-<strong>- 2:</strong>
 <br>
