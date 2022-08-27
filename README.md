@@ -10,7 +10,7 @@
 <hr>
 <h3> <strong> Justificativa das atividades escolhidas: </strong> </h3>
 <h4> <strong> Fundamentos de Design: </strong> </h4>
-<strong>- Imagem monocromática:</strong> A proposta do trabalho era escolher uma cor e fazer um desenho, sistema ou logo utilizando diferentes intensidades, tonalidades e sombras da mesma cor. Escolhi esse trabalho justamente pela proposta, porque achei bem divertido usar os sistemas de intensidade. <br>
+<strong>- Imagem monocromática:</strong> A proposta do trabalho era escolher uma cor e fazer um desenho, sistema ou logo utilizando diferentes intensidades, tonalidades e sombras da mesma cor. Escolhi esse trabalho justamente pela proposta, porque achei bem divertido usar os sistemas de intensidade. <br><br>
 <strong>- Jacquin Delicinhas:</strong> A proposta era criar um site de receitas do Jacquin (Jacquin Delicinhas) no Figma. Escolhi o trabalho "Jacquin Delicinhas" porque amei bastante o resultado, foi um trabalho inspirado no site do Temakin e me dediquei bastante para obter o resultado esperado, mexer nas funções do site Figma foi um novo desafio que gostei de realizar.
 <br><br>
 
