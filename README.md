@@ -28,3 +28,15 @@
 <strong>- Redes interligadas:</strong> A proposta era desenhar três redes interligadas por um roteador, as três redes deveriam estar em redes diferentes, os IPs deveriam ser escolhidos pelos alunos, inclusive a máscara poderia ser escolhida também. Para cada rede era preciso encontrar o endereço de rede, o endereço de broadcast, o nº do dispositivo e a quantidade de dispositivos que caberiam na rede. Gostei muito de realizar essa atividade, pois pratiquei os cálculos e consegui fixar melhor o conteúdo.
 <br><br>
 <strong>- Redes interligadas:</strong> A proposta era encontrar o endereço de rede e o número do dispositivo para cada IP e máscara solicitados. No inicio, olhar para os os números e tentar encontrar o que pedia foi desafiador. Já que era um novo conteúdo e meu primeiro contato, mas adorei aprender sobre IP, máscara , endereço de rede e número do dispositivo.
+<br><br>
+
+<h4> <strong> Fundamentos de TI: </strong> </h4>
+<strong>- Script 1:</strong> As propostas eram:
+1) Fazer um script que receba como parâmetro um diretório e retorne a listagem do que tem dentro daquele diretório. 
+2) Fazer um script que receba 2 valores e um nome de arquivo de texto. O script deve escrever dentro do arquivo o resultado da multiplicação entre os dois valores com uma frase de identificação.
+3) Qual a diferença entre enviar parâmetros para o script e pedir para o usuário a informação? Faça 2 scripts, um para cada caso.
+Amei aprender sobre script, além de ser bem interessante... eu ficava feliz toda vez que eu conseguia fazer o código funcionar.
+<br><br>
+
+<strong>- Script 2:</strong> A proposta era fazer um script que receba como parâmetro um diretório e retorne a listagem do que tem dentro daquele diretório. Fazer um script que receba 2 valores e um nome de arquivo de texto. O script deve escrever dentro do arquivo o resultado da multiplicação entre os dois valores com uma frase de identificação. Qual a diferença entre enviar parâmetros para o script e pedir para o usuário a informação? Faça 2 scripts, um para cada caso.
+<br><br>
