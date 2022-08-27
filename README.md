@@ -24,5 +24,7 @@
 <strong>- Prisma:</strong>A proposta era postar os métodos responsáveis pelos cálculos do prisma: método da altura (h = v/ab) e método da área da face (ab = v/h). Gostei bastante de realizar essa atividade, pois é um conteúdo que foi abordado em matemática nesse trimestre e ver ele relacionado com programação é bem interesse.
 <br><br>
 
-
-#Made by: @Pedroo-Nietoo
+<h4> <strong> Fundamentos de Redes: </strong> </h4>
+<strong>- Redes interligadas:</strong> A proposta era desenhar três redes interligadas por um roteador, as três redes deveriam estar em redes diferentes, os IPs deveriam ser escolhidos pelos alunos, inclusive a máscara poderia ser escolhida também. Para cada rede era preciso encontrar o endereço de rede, o endereço de broadcast, o nº do dispositivo e a quantidade de dispositivos que caberiam na rede. Gostei muito de realizar essa atividade, pois pratiquei os cálculos e consegui fixar melhor o conteúdo.
+<br><br>
+<strong>- Redes interligadas:</strong> A proposta era encontrar o endereço de rede e o número do dispositivo para cada IP e máscara solicitados. No inicio, olhar para os os números e tentar encontrar o que pedia foi desafiador. Já que era um novo conteúdo e meu primeiro contato, mas adorei aprender sobre IP, máscara , endereço de rede e número do dispositivo.
