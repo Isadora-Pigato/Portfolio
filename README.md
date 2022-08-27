@@ -16,3 +16,6 @@
 <h4> <strong> Lógica Computacional: </strong> </h4>
 <strong>- Código da P.A.:</strong> A proposta era postar o algoritmo com os 4 cálculos de PA vistos em aula. No entanto, gostei bastante de relacionar o conteúdo abordado em matemática no primeiro trimestre com a disciplina de Lógica Computacional e saber que podemos envolver com algoritmos, é bem interessante. <br>
 <br>
+<strong>- Calculadora de juros:</strong> A proposta da atividade era formar grupo de duplas ou trios para colaborar entre si, abordando o conteúdo de juros. Criando um frame com um painel contendo: 3 Inputs e 1 botão: O primeiro input(textfield) deve solicitar um valor em reais para ser o capital [...converter para float utilizando o comando Float.parseFloat() ...] O segundo input(textfield) deve solicitar o período em meses [...converter para int utilizando o comando Integer.parseInt ...] O terceiro input(textfield) deve solicitar a taxa mensal [...converter para float utilizando o comando Float.parseFloat() ...] O botão deve realizar o cálculo e exibir o montante em um JOptionPane.showMessaDialog()
+
+|Fiz com meus amigos, Vitor e Bernardo|
