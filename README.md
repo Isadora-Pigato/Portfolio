@@ -21,7 +21,7 @@
 
 |Fiz com meus amigos, Vitor e Bernardo|
 <br><br>
-<strong>- Prisma:</strong>A proposta era postar os métodos responsáveis pelos cálculos do prisma: método da altura (h = v/ab) e método da área da face (ab = v/h). Gostei bastante de realizar essa atividade, pois é um conteúdo que foi abordado em matemática nesse trimestre e ver ele relacionado com programação é bem interesse.
+<strong>- Prisma:</strong> A proposta era postar os métodos responsáveis pelos cálculos do prisma: método da altura (h = v/ab) e método da área da face (ab = v/h). Gostei bastante de realizar essa atividade, pois é um conteúdo que foi abordado em matemática nesse trimestre e ver ele relacionado com programação é bem interesse.
 <br><br>
 
 <h4> <strong> Fundamentos de Redes: </strong> </h4>
