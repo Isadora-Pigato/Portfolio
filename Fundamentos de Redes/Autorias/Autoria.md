@@ -1,4 +1,5 @@
 <h2>Segundo trimestre</h2>
+
 [Link da autoria](https://docs.google.com/document/d/1SnCAohymL2VVIuCgyE4r0MUQPXCany3btrA_PgKVBfA/edit?usp=sharing)
 
 <h2>Terceiro trimestre</h2>
