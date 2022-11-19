@@ -23,12 +23,22 @@
 <br><br>
 <strong>- Prisma:</strong> A proposta era postar os métodos responsáveis pelos cálculos do prisma: método da altura (h = v/ab) e método da área da face (ab = v/h). Gostei bastante de realizar essa atividade, pois é um conteúdo que foi abordado em matemática nesse trimestre e ver ele relacionado com programação é bem interesse.
 <br><br>
+<strong>- Orientação a objeto - cadastraAluno:</strong>
+A proposta da atividade era programar e postar o método "cadastraAluno", similar ao "cadastraPessoa" do arquivo na aba de Lógica Computacional. Essa atividade foi bem dinâmica, gosto quando o professor passa novos "desafios" para realizar as atividades.
+<br><br>
+<strong>- Orientação a objetio - remover e editar: </strong>
+A proposta da atividade era programar e postar os métodos dos botões 'Remover' e 'Editar', do projeto anexado no material 'Orientação à Objetos. Gostei de fazer essa atividade, porque aprofundei meu conhecimento em relação a objetos com JFrame e está me ajudando até mesmo no meu estágio.
 
 <h4> <strong> Fundamentos de Redes: </strong> </h4>
 <strong>- Redes interligadas:</strong> A proposta era desenhar três redes interligadas por um roteador, as três redes deveriam estar em redes diferentes, os IPs deveriam ser escolhidos pelos alunos, inclusive a máscara poderia ser escolhida também. Para cada rede era preciso encontrar o endereço de rede, o endereço de broadcast, o nº do dispositivo e a quantidade de dispositivos que caberiam na rede. Gostei muito de realizar essa atividade, pois pratiquei os cálculos e consegui fixar melhor o conteúdo.
 <br><br>
 <strong>- Redes interligadas:</strong> A proposta era encontrar o endereço de rede e o número do dispositivo para cada IP e máscara solicitados. No inicio, olhar para os os números e tentar encontrar o que pedia foi desafiador. Já que era um novo conteúdo e meu primeiro contato, mas adorei aprender sobre IP, máscara , endereço de rede e número do dispositivo.
 <br><br>
+<strong>- DHCP:</strong>
+A proposta da atividade era, mo Cisco Packet Tracer utilizar o DHCP para escolha dos IPs da rede. Acho bem divertido mexer no Cisco Packet Tracer e poder aprender de uma forma dinâmica a escolher os IPs da rede.
+<br><br>
+<strong>- Path Pannel: </strong>
+A proposta da atividade era fazer as conexões de forma correta no path pannel e depos testá-lo para verificar se o sinal está passando e se ele está funcionando. Adorei fazer a atividade pois, além de ser muito interativa e prática, foi uma oportunidade incrível de me aprofundar mais no conteúdo de redes.
 
 <h4> <strong> Fundamentos de TI: </strong> </h4>
 <strong>- Script 1:</strong> As propostas eram:
@@ -40,3 +50,12 @@ Amei aprender sobre script, além de ser bem interessante... eu ficava feliz tod
 
 <strong>- Script 2:</strong> A proposta era fazer um script que receba como parâmetro um diretório e retorne a listagem do que tem dentro daquele diretório. Fazer um script que receba 2 valores e um nome de arquivo de texto. O script deve escrever dentro do arquivo o resultado da multiplicação entre os dois valores com uma frase de identificação. Qual a diferença entre enviar parâmetros para o script e pedir para o usuário a informação? Faça 2 scripts, um para cada caso.
 <br><br>
+
+<h4><strong>Fundamentos de Banco de Dados</strong></h4>
+<strong>- Chaves estrangeiras:</strong>
+A proposta da atividade era adicionar as chaves estrangeiras ao código em SQL, na atividade desenvolvida na aula anterior. Gostei de fazer essa atividade, porque aprofundei meu conhecimento em relação ao banco de dados e está me ajudando até mesmo no meu estágio.
+<br><br>
+<strong>- MER: </strong>
+A proposta da atividade era desenvolver o MER bem completinho para o tema abaixo: Desenvolver o MER bem completinho para o tema abaixo:
+<ul><li>Sistema de universidade</li></ul>
+Confesso que desenvolver o MER foi bem complicado no início, porém gostei bastante do resultado.
