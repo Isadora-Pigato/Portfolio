@@ -23,6 +23,8 @@
 <br><br>
 <strong>- Prisma:</strong> A proposta era postar os métodos responsáveis pelos cálculos do prisma: método da altura (h = v/ab) e método da área da face (ab = v/h). Gostei bastante de realizar essa atividade, pois é um conteúdo que foi abordado em matemática nesse trimestre e ver ele relacionado com programação é bem interesse.
 <br><br>
+
+<h4> <strong> Lógica de Programação: </strong> </h4>
 <strong>- Orientação a objeto - cadastraAluno:</strong>
 A proposta da atividade era programar e postar o método "cadastraAluno", similar ao "cadastraPessoa" do arquivo na aba de Lógica Computacional. Essa atividade foi bem dinâmica, gosto quando o professor passa novos "desafios" para realizar as atividades.
 <br><br>
